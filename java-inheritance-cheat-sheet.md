@@ -127,6 +127,8 @@ class Triangle implements Drawable {
   - A class can implement multiple interfaces, facilitating a form of multiple inheritance.
   - Promotes loose coupling, making code more modular and adaptable to change.
 
+---
+
 ### Comparing Use Cases: When to Use Each
 
 #### 1. Inheritance (Parent/Child Classes)
